@@ -1,0 +1,18 @@
+.navbar a{
+    float: left;
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    font-family: cursive;
+    font-size: large;
+}
+.navbar{
+    overflow: hidden;
+    background-color: darkgreen;
+}
+.navbar a:hover{
+    background-color: azure;
+    color: black;
+}
